@@ -1,2 +1,2 @@
-# burt-lost
-Stats For Burt &amp; Lost Tokens
+# burnt-lost
+Stats For Burnt &amp; Lost Tokens
